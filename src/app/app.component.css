@@ -1,0 +1,13 @@
+.navbar {
+  padding: 20px;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-button {
+  font-size: 18px;
+  padding: 30px 40px;
+}
